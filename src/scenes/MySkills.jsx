@@ -25,8 +25,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+            Here some of the skills that I bring to the table as an experienced software developer.
           </p>
         </motion.div>
 
@@ -72,9 +71,10 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+            With over 6 years of self-taught coding experience, I've honed my skills as a proficient web developer. 
+            I excel in Python, HTML, and JavaScript, along with database languages like SQL and MongoDB. 
+            I'm well-versed in popular frameworks such as ReactJS, Next.js, Django, and Vue, both for frontend and backend development. 
+            Additionally, I have hands-on experience with CMS frameworks like Sanity and Strapi,making me versatile in delivering robust web solutions.
           </p>
         </motion.div>
 
@@ -100,10 +100,10 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+            As an innovative software developer, 
+            I constantly explore novel solutions and creative approaches to coding challenges. 
+            I thrive on pushing the boundaries of traditional development methodologies and leverage emerging technologies to drive innovation. 
+            My passion for learning and experimenting allows me to deliver cutting-edge solutions that exceed expectations.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -128,10 +128,12 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+            As an imaginative software developer, 
+            I bring a unique perspective to problem-solving, 
+            often thinking outside the box to devise innovative solutions. 
+            I embrace creativity in my code, 
+            finding elegant and imaginative ways to optimize performance and user experience. 
+            With my imaginative approach, I consistently deliver software solutions that captivate and inspire.
           </p>
         </motion.div>
       </div>
